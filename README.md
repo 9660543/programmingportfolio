@@ -5,7 +5,8 @@ Projected graduation in 2026. No past history with programming.
   Some things about me
   + I am a competitive softball player and I love learning new things. Technology is really cool to me and I want to learn more about programming.
 
-![](<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxrNjas9ep7xDO197bNztMfEioupRUXiqXXc8Tup5KB0_IK3OQA7xfIbuQVLmzs2Lvfs:https://media.defense.gov/2017/May/02/2001740770/2000/2000/0/170428-F-KR223-0169.JPG&amp;usqp=CAU" alt="Softball tournament strikes out sexual assault &gt; 459th Air Refueling Wing &gt;  Article Display"/>![image](https://github.com/user-attachments/assets/b6d60817-8ba1-4b0e-afc7-0b6a9fbae697)
+![](<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7PnzwxMAeb1V99shVcillxQBQgbfIpHiAQ:https://c0.wallpaperflare.com/preview/1002/258/526/softball-baseball-ball-sport.jpg&amp;usqp=CAU" alt="HD wallpaper: softball, baseball, sport, recreation, game, field, leather |  Wallpaper Flare"/>)![image](https://github.com/user-attachments/assets/4b0286ee-9170-4961-b030-58d95f966f3b)
+
 
 
 

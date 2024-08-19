@@ -5,7 +5,8 @@ Projected graduation in 2026. No past history with programming.
   Some things about me
   + I am a competitive softball player and I love learning new things. Technology is really cool to me and I want to learn more about programming.
 
-! [Softball](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMfk9Hu5IdzsXoO4DvRAagRuKuJ20zYVZKjbc_mSbQe3QMQpU8mFUZ--HRNu6ONt5WVI:https://upload.wikimedia.org/wikipedia/commons/6/6f/Yellow_softball.jpg&usqp=CAU)
+![Softball](<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMfk9Hu5IdzsXoO4DvRAagRuKuJ20zYVZKjbc_mSbQe3QMQpU8mFUZ--HRNu6ONt5WVI:https://upload.wikimedia.org/wikipedia/commons/6/6f/Yellow_softball.jpg&amp;usqp=CAU" alt="File:Yellow softball.jpg - Wikimedia Commons"/>![image](https://github.com/user-attachments/assets/fdd40655-acdf-4d2f-90ae-664e8fc881b8)
+)
 
 ## Term 1
 

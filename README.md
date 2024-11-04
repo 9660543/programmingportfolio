@@ -12,6 +12,7 @@ Projected graduation in 2026. No past history with programming.
 
 ## Term 1
 ### Etch-A-Sketch
+Graphic project with ability to draw with keypress controls, can save image that was drawn.
 ![Running Appl]()
 [Source Code]()
 

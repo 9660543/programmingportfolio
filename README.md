@@ -18,7 +18,7 @@ Graphic project with ability to draw with keypress controls, can save image that
 ![Running Appl](https://github.com/9660543/programmingportfolio/blob/main/images/Etch-A-Sketch.png?raw=true)
 
 
-[Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/etchaSketch)
+[Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/term1/Etch-A-Scetch)
 
 ### Grading App
 

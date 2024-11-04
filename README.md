@@ -16,3 +16,8 @@ Projected graduation in 2026. No past history with programming.
 [Source Code]()
 
 ## Term 2
+###Calculator
+![Running Appl]()
+[Source Code]() 
+
+

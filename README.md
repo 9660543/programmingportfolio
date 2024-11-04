@@ -25,7 +25,7 @@ Graphic project with ability to draw with keypress controls, can save image that
 Description
 Project that shows what letter grade you would get based off what number grade you got.
 
-![Running App]()
+![Running App](https://github.com/9660543/programmingportfolio/blob/main/images/gradingApp.png?raw=true)
 [Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/term1/Gradingapp)
 
 ## Term 2

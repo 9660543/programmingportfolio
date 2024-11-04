@@ -16,7 +16,7 @@ Projected graduation in 2026. No past history with programming.
 [Source Code]()
 
 ## Term 2
-###Calculator
+### Calculator
 
 Description
 ![Running App](https://github.com/9660543/programmingportfolio/blob/main/images/calc.png?raw=true)

@@ -11,5 +11,8 @@ Projected graduation in 2026. No past history with programming.
 
 
 ## Term 1
+### Etch-A-Sketch
+![Running Appl]()
+[Source Code]()
 
 ## Term 2

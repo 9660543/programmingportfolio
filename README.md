@@ -20,7 +20,7 @@ Graphic project with ability to draw with keypress controls, can save image that
 
 [Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/etchaSketch)
 
-###Grading App
+### Grading App
 
 Description
 Project that shows what letter grade you would get based off what number grade you got.

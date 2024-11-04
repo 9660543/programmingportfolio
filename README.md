@@ -12,16 +12,22 @@ Projected graduation in 2026. No past history with programming.
 
 ## Term 1
 ### Etch-A-Sketch
+
 Graphic project with ability to draw with keypress controls, can save image that was drawn.
+
 ![Running Appl](https://github.com/9660543/programmingportfolio/blob/main/images/Etch-A-Sketch.png?raw=true)
-[Source Code]()
+
+
+[Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/etchaSketch)
 
 ## Term 2
 ### Calculator
 
-Description
+Description 
+Calculator that can do basic math.
 
 ![Running App](https://github.com/9660543/programmingportfolio/blob/main/images/calc.png?raw=true)
+
 
 [Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/term2/Calculator__Maya_Jacobsen)
 

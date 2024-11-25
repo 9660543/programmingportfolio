@@ -45,5 +45,7 @@ Calculator that can do basic math.
 Description: OOP solution for a collusion based space theme game. Nov 2024. 
 
 ![Game Play](https://github.com/9660543/programmingportfolio/blob/main/images/Spacegame.png?raw=true)
+
+
 [Source Code](https://github.com/9660543/programmingportfolio/tree/main/src/term2/SpaceGame)
 

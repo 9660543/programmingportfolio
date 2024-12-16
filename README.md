@@ -2,7 +2,7 @@
 Projected graduation in 2026. No past history with programming. 
 - typing at 58WPM
 ### Certifications
-- ![] ()
+- ![image](https://github.com/user-attachments/assets/77d61502-cf99-4f0b-a119-d142fc5c831d)
 
  
 ## Term 1

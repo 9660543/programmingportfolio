@@ -1,4 +1,4 @@
-# Programming 1 portfolio | Maya Jacobsen | mayajacobsen9@gmail.com
+# Programming 1 portfolio | Maya Jacobsen | [Email Someone](mailto:mayajacobsen9@gmail.com)
 ### Certifications
 - ![image](https://github.com/user-attachments/assets/77d61502-cf99-4f0b-a119-d142fc5c831d)
 
